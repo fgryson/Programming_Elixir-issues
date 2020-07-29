@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+A commandline tool for producing a formatted list of the last n issues of a github repo.
 
 ## Installation
 
